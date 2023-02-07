@@ -14,7 +14,20 @@
 
 # Build Setup
 
+pip install virtualenv
 
-# install dependencies
-npm install
+mkdir wobotAI
+
+cd wobotAI
+
+virtualenv task
+
+task\Scripts\activate.bat
+
+pip install requirement.txt
+
+Come back to the terminal and run :
+
+uvicorn main:app --reload
+
 
