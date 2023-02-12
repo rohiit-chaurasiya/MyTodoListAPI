@@ -16,9 +16,9 @@
 
 pip install virtualenv
 
-mkdir wobotAI
+mkdir MyTodoListAPI
 
-cd wobotAI
+cd MyTodoListAPI
 
 virtualenv task
 
