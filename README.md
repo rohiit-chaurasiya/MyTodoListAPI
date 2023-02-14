@@ -26,7 +26,7 @@ task\Scripts\activate.bat
 
 pip install requirement.txt
 
-# Come back to the terminal and run :
+# Come back to the terminal and run:
 
 uvicorn main:app --reload
 
