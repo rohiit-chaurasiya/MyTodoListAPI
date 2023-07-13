@@ -1,7 +1,7 @@
 # A basic REST API TODO List in python using FastAPI and MySQL Database
 
 • Use REST API
-
+ 
 • Include authentication
 
 • Implementation of CRUD functionalities.
